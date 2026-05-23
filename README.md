@@ -10,13 +10,22 @@ I love exploring how things work, solving complex problems, and diving into the 
 - ⚡ **Fun Fact:** I enjoy exploring logic gates, network security, and utilizing AI tools for high-definition image enhancement and restoration.
 
 ## 🛠️ Tech & Tools I'm Exploring
-- **Core Concepts:** ICT, Management, Microsoft Office.
-- **Interests:** AI Image Processing & Enhancements, Digital Logic Design, Graphics design.
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
 
 ## 📈 My GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats-one.vercel.app/api?username=Myself-Mohammad&show_icons=true&theme=radical" alt="Mohammad's GitHub Stats" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Myself-Mohammad&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+👁️ **Profile Views:** ![Visitor Count](https://komarev.com/ghvc/?username=Myself-Mohammad&color=blueviolet)
 
 ## 📫 Connect with Me
 - Leave a star ⭐ on my repositories if you find my learning journey interesting!
