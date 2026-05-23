@@ -15,7 +15,7 @@ I love exploring how things work, solving complex problems, and diving into the 
 
 ## 📈 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Myself-Mohammad &show_icons=true&theme=radical" alt="Mohammad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Myself-Mohammad&show_icons=true&theme=radical" alt="Mohammad's GitHub Stats" />
 </p>
 
 ## 📫 Connect with Me
