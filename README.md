@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammad! 👋
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Space&fontSize=40&animation=twinkling" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Space&fontSize=40&animation=twinkling" alt="Banner" />
 </p>
 
 Welcome to my GitHub profile! I am a 21-year-old student from Bangladesh with a strong background and deep interest in the Natural Sciences, Technology, and Information & Communication Technology (ICT). 
@@ -21,18 +21,24 @@ I love exploring how things work, solving complex problems, and diving into the 
 
 ---
 
-## 📈 My GitHub Stats
+## 📈 My Journey & Skills
+যেহেতু আমি গিটহাবে নতুন এবং আমার শেখার যাত্রা মাত্র শুরু করেছি, তাই নিচে আমার পছন্দের এবং বর্তমানের মূল স্কিলগুলোর একটি ভিজ্যুয়াল লেআউট দেওয়া হলো:
+
+* **Information & Communication Technology (ICT)**
+  `█████████████████████████░░░░░` (85%)
+* **Natural Sciences (Physics, Chemistry, Biology)**
+  `██████████████████████████████░░` (95%)
+* **AI Image Enhancement**
+  `██████████████████░░░░░░░░░░░░` (60%)
+
+---
+
+## 📊 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=Myself-Mohammad&show_icons=true&theme=radical" alt="Mohammad's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Myself-Mohammad&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=Myself-Mohammad&show_icons=true&theme=radical" alt="Mohammad's GitHub Stats" />
 </p>
 
 ---
 
 ## 📫 Connect with Me
 - Leave a star ⭐ on my repositories if you find my learning journey interesting!
-
----
-<p align="center">
-  <img src="https://komarev.com/ghvc/?username=Myself-Mohammad&color=gradient&style=flat-square" alt="Views" />
-</p>
